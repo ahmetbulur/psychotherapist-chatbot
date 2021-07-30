@@ -4,7 +4,7 @@ rules and keywords in the text.
 - This problem falls under the domain of Artificial Intelligence. The program will simulate the behavior of a
 psychotherapist. The user (patient) starts the conversation by writing a text. Then the computer (psychotherapist) asks
 a question related to the text.
-- Rules :
+- The program applies the rules in the following order :
 
 ![rules](rules.PNG)
 
